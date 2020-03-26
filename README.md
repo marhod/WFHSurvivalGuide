@@ -1,5 +1,5 @@
 # WFHSurvivalGuide
-The Work From Home Survival Guide
+[PDF Download](https://github.com/marhod/WFHSurvivalGuide/raw/master/The%20WFH%20Survival%20Guide.pdf)
+
 ![WFH](https://github.com/marhod/WFHSurvivalGuide/raw/master/The%20WFH%20Survival%20Guide.png "WFH Survival Guide")
-[Download in PDF](https://github.com/marhod/WFHSurvivalGuide/raw/master/The%20WFH%20Survival%20Guide.pdf)
 
